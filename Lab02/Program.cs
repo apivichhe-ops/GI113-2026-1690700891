@@ -1,6 +1,6 @@
 ﻿/*
-* Student ID :1690700990
-* Name       :teeratap_yote
+* Student ID :1690700891
+* Name       :Apivich-he
 * Section    :129A
 * No.        :
 * Course     : GI113 Computer Programming (GI)
