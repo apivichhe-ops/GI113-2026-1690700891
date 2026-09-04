@@ -10,7 +10,7 @@ Repository ส่วนตัวของวิชา **GI113 Computer Programmi
 ชื่อ-นามสกุล: Apivich-he
 Section: GI113-2026-129A
 รหัสนักศึกษา: 1690700891
-เลขที่: 
+เลขที่: 32
 ```
 
 ## กติกาการตั้งชื่อ (Naming Convention)
